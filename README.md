@@ -2,11 +2,11 @@ This Gradio-based application allows users to upload a CSV file, ask questions a
 
 🚀Features:
 
-•	CSV File Upload: Easily upload CSV files with automatic error handling.
-•	Question Answering System: Ask both numerical and textual queries about the CSV data.
-•	Graph Plotting: Generate Line, Bar, and Scatter plots directly within the Gradio interface.
-•	LLM Integration: Uses Ollama with the LLaMA 3 model for intelligent query processing.
-•	User-Friendly Interface: Simple yet powerful interface built with Gradio.
+1. CSV File Upload: Easily upload CSV files with automatic error handling.
+2. Question Answering System: Ask both numerical and textual queries about the CSV data.
+3. Graph Plotting: Generate Line, Bar, and Scatter plots directly within the Gradio interface.
+4. LLM Integration: Uses Ollama with the LLaMA 3 model for intelligent query processing.
+5. User-Friendly Interface: Simple yet powerful interface built with Gradio.
 
 
 ▶️Usage:
@@ -19,7 +19,7 @@ This Gradio-based application allows users to upload a CSV file, ask questions a
 
 
 📂Project Structure:
-app.py                # Main Gradio application
-file_handler.py       # CSV file handling logic
-query_processor.py    # Question-answering system using Ollama
-graph_plotter.py      # Graph plotting logic
+1. app.py                # Main Gradio application
+2. file_handler.py       # CSV file handling logic
+3. query_processor.py    # Question-answering system using Ollama
+4. graph_plotter.py      # Graph plotting logic
